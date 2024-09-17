@@ -1,0 +1,4 @@
+[submodule "ProceduralNoise"]
+	path = source
+	url = https://github.com/RyanAllcock/ProceduralNoise.git
+	branch = source
